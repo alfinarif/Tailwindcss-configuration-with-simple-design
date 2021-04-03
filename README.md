@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To Configure Tailwind Css Run Those Command To Your Terminal
+## To configure Tailwindcss follow those steps
 
 
 Step 1: npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
